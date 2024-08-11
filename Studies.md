@@ -27,12 +27,19 @@
       - Java includes automatic garbage collection, which helps manage memory allocation and deallocation.
       - Java has a vast ecosystem of libraries and frameworks that simplify development for various applications, including web, mobile, and enterprise solutions.
       - Java supports multithreading, allowing developers to create applications that can perform multiple tasks simultaneously.
-      - This is particularly advantageous if you want to maintain a single codebase for multiple platforms, cz it uses JVM to run java code.
+      - This is particularly advantageous if you want to maintain a single codebase for multiple platforms, cz it uses JVM to run Java code.
 
- -- C# vs Java
+ - C# vs Java
    - Java is designed to be platform-independent, allowing applications to run on any system with a Java Virtual Machine (JVM).
    - Java is the primary language for Android app development, making it essential for developers targeting the mobile market.
    - Both are mature languages, thus preferred for long-term projects
    - C# is generally used for the Windows apps more.
    - Java and C# have very similar syntax as they are both part of the C-family of programming languages.
    - C# is generally considered faster than Java, especially for memory-intensive tasks, due to its more efficient garbage collector
+
+
+  - Node
+      - Used for more I/O intensive tasks
+          - I/O? operations which require more waiting from External resources, like databases, another API etc.
+          - Ex: CRUD on dB, file operations, API Calls, Media Streaming from external sources.
+      - But you need to think of ways which speed up the I/O processes to make the application faster.
