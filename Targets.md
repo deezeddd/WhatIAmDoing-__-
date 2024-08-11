@@ -12,4 +12,12 @@
       - That way you can easily grab the issues and solve them.
   - Don't shy away from discussing the approach with the maintainers
   - Don't look at the projects all at once, be selective.
-  - 🥇 ENJOY 🥇 
+  - 🥇 ENJOY 🥇
+
+### To Find Projects: 
+  - Search on:
+      - producthunt
+      - Youtube
+      - X
+      - Inside GitHub Repos which uses other Projects
+      - YC
