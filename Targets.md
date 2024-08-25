@@ -21,3 +21,9 @@
       - X
       - Inside GitHub Repos which uses other Projects
       - YC
+      - Dev.To
+   
+## Findings
+  - Don't just start brainlessly contributing
+  - Remember some repos could be ded repos.
+  - Always try setting up the project first, some projects doesn't have good documentation for setting up the project which might waste time.
